@@ -1,9 +1,9 @@
 ---
 name: Feedback
 about: Erstelle ein Feedback, um die Software besser zu gestalten
-title: ''
-labels: ''
-assignees: ''
+title: Kurze prägnante Fehlerbeschreibung
+labels: Userfeedback
+assignees: SBajonczak
 
 ---
 
